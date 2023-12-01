@@ -1,0 +1,24 @@
+body{
+    background: url('https://wallpapercave.com/wp/wp7505888.jpg')
+    no-repeat; 
+    background-size: 150%;
+    color: white;
+    filter: brightness(1.2);
+    overflow: hidden;
+}
+
+.AwsLine{
+    padding: 2px;
+    border: none;
+    width: 101%;
+    background-color: blue;
+    position: relative;
+    right: 13px;
+}
+
+.EndLine{
+    position: relative;
+    bottom: -750px;
+
+    color: white;
+}
